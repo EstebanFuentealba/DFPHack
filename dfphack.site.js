@@ -12,7 +12,7 @@ BBCL.DFPHackManager = {
 };
 BBCL.DFPHack = function(opts) {
 	this.defaults = {
-		template{
+		template: {
 			first: '<div  class="container">',
 			border: '<div class="fancybox-bg" id="fancybox-bg-n"></div>\
 					<div class="fancybox-bg" id="fancybox-bg-ne"></div>\
